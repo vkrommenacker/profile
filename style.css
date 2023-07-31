@@ -1,0 +1,96 @@
+body {
+  background-color: FEFAE0;
+  color: 85A389;
+  text-align: center;
+  font-family: 'Urbanist', sans-serif;
+  margin: 0px;
+}
+.header-up{
+  height: 100px;
+  width: 100%;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.header-down{
+  height: 100px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  color: #e26f61;
+}
+
+h2 {
+  font-family: 'Bungee Shade', cursive;
+  color:#916489;
+}
+
+.fa-rocket {
+  color: E6A157;
+}
+.fa-face-grin-wide {
+  color: E6A157;
+}
+
+.profile-picture {
+  height: 250px;
+  border-radius: 300px;
+  margin-bottom: 20px;
+  filter: grayscale(100%);
+  border: 1.5px solid;
+}
+
+.about-me{
+  padding: 10px;
+  width: 50vw;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  background-color: #e26f61  ;
+  border-radius: 10px;
+  font-weight: 900;
+  color: F5F5DC;
+  font-size: 20px;
+}
+.description {
+  padding: 10px;
+  width: 50vw;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  font-weight: 999;
+  border: 1px dashed #e26f61;
+}
+
+.button-le-wagon {
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: E6A157;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 999;
+  color: F5F5DC;
+  font-size: 20px;
+}
+
+.follow-me {
+  margin-top: 40px;
+}
+
+.social-media{
+  justify-content: center;
+}
+
+.icon {
+  color: B08BBB;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+.div{
+  margin-top: 40px;
+  margin-top: 40px;
+}
