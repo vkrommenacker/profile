@@ -30,8 +30,12 @@ h2 {
   color:#916489;
 }
 
+.fa-solid {
+  color:#916489;
+}
+
 .fa-rocket {
-  color: E6A157;
+  color: #E6A157;
 }
 
 .fa-face-grin-wide {
@@ -43,8 +47,8 @@ h2 {
   border-radius: 300px;
   margin-bottom: 20px;
   filter: grayscale(100%);
-  border: 1.5px solid;
 }
+
 
 .about-me{
   padding: 10px;
